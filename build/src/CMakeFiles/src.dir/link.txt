@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc.a CMakeFiles/src.dir/MurmurHash3.cpp.o CMakeFiles/src.dir/sketching.cpp.o CMakeFiles/src.dir/utils.cpp.o
+/usr/bin/ranlib libsrc.a

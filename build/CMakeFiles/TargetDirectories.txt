@@ -1,0 +1,11 @@
+/workspaces/cs225git/mp_sketching/build/CMakeFiles/test.dir
+/workspaces/cs225git/mp_sketching/build/CMakeFiles/main.dir
+/workspaces/cs225git/mp_sketching/build/CMakeFiles/edit_cache.dir
+/workspaces/cs225git/mp_sketching/build/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225git/mp_sketching/build/lib/CMakeFiles/lodepng.dir
+/workspaces/cs225git/mp_sketching/build/lib/CMakeFiles/cs225.dir
+/workspaces/cs225git/mp_sketching/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/cs225git/mp_sketching/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225git/mp_sketching/build/src/CMakeFiles/src.dir
+/workspaces/cs225git/mp_sketching/build/src/CMakeFiles/edit_cache.dir
+/workspaces/cs225git/mp_sketching/build/src/CMakeFiles/rebuild_cache.dir
